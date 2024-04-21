@@ -18,7 +18,7 @@ import {
 import { Context } from "../../Context/context";
 
 import Table from '../Table/table';
-import GraphComponent from '../Graph/graph.'
+import GraphComponent from '../Graph/graph'
 import ReactMarkdown from 'react-markdown';
 import React, { useContext ,useEffect,useState,useRef} from "react";
 import QueryComponent from "../Query/Query"
